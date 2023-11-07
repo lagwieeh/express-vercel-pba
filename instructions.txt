@@ -1,0 +1,6 @@
+GENERAL
+  1 Github Account
+  2 Vercel Account
+  3 Express' Project
+
+3.1 Create a js file. Call it "index"
